@@ -61,4 +61,3 @@ Through this project, I practiced:
 
 Purvi Chaudhary
 
-GitHub: https://github.com/YOUR_USERNAME
